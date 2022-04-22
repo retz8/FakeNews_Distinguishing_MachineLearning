@@ -17,3 +17,5 @@ Machine learning algorithms
 Data visualization
   1) Histogram
   2) Word Cloud
+
+published: https://www.sciencepublishinggroup.com/journal/paperinfo?journalid=603&doi=10.11648/j.ajdmkd.20200502.11
